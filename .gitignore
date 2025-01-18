@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Mengabaikan file database di src/resource
+src/main/resources/database.sql
+
+src/main/resources/application.properties
